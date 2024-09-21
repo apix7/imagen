@@ -2,6 +2,8 @@
 
 AI Image Alchemist is a Streamlit-based web application that generates images based on text prompts using AI. It leverages advanced AI models to create unique images from user descriptions.
 
+![AI Image Alchemist Interface](screencapture.jpg)
+
 ## Features
 
 - Generate creative image prompts from user input
