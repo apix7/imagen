@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+
+# Generated images
+generated_images/
+
+# Streamlit
+.streamlit/
+
+# History file
+image_history.json
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
