@@ -64,8 +64,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - [Streamlit](https://streamlit.io/) for the web application framework
-- [OpenAI](https://openai.com/) for the GPT model used in prompt generation
-- [AIML API](https://aimlapi.com/) for image generation capabilities
+- GPT4.o for prompt generation , Flux.pro for image generation
+- [AIML API](https://aimlapi.com/) for api
 
 ## Disclaimer
 
