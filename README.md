@@ -16,8 +16,8 @@ AI Image Alchemist is a Streamlit-based web application that generates images ba
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-image-alchemist.git
-   cd ai-image-alchemist
+   git clone https://github.com/apix7/imagen.git
+   cd imagen
    ```
 
 2. Install the required dependencies:
