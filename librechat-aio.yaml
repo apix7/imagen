@@ -40,7 +40,7 @@ endpoints:
           ]
         fetch: false
       titleConvo: true
-      titleModel: "mixtral-8x7b-32768"
+      titleModel: "llama-3.3-70b-versatile"
       modelDisplayLabel: "groq"
 
     # GitHub
@@ -88,12 +88,12 @@ endpoints:
         default: [
           "nvidia/llama-3.1-nemotron-51b-instruct",
           "nvidia/llama-3.1-nemotron-70b-instruct",
-          "nvidia/nemotron-mini-4b-instruct",
+          "deepseek-ai/deepseek-r1",
           "nvidia/nemotron-4-340b-instruct",
           ]
         fetch: false
       titleConvo: true
-      titleModel: "nvidia/nemotron-mini-4b-instruct"
+      titleModel: "deepseek-ai/deepseek-r1"
       modelDisplayLabel: "Nvidia"
       iconURL: "https://raw.githubusercontent.com/LibreChat-AI/librechat-config-yaml/refs/heads/main/icons/nvidia.png"
 
@@ -137,7 +137,7 @@ endpoints:
         fetch: false
       dropParams: ["stop"]
       titleConvo: true
-      titleModel: "openai/gpt-4o-mini"
+      titleModel: "deepseek/deepseek-r1:free"
       summarize: false
       summaryModel: "openai/gpt-4o-mini"
       forcePrompt: false
