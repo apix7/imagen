@@ -25,7 +25,7 @@ endpoints:
       modelDisplayLabel: "DuckDuckGo Chat"
     # ... other endpoints follow here.
     
-  custom:
+
     # groq
     # Model list: https://console.groq.com/settings/limits
     - name: "groq"
