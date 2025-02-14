@@ -17,6 +17,7 @@ endpoints:
   custom:
     - name: "DuckDuckGo Chat"
       baseURL: "https://duckduckgo.com/duckchat/v1"
+      apiKey: ""
       models:
         default: ["gpt-4o-mini", "llama-3.3-70b", "claude-3-haiku", "o3-mini", "mixtral-8x7b"]
         fetch: false
