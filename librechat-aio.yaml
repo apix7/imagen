@@ -43,7 +43,7 @@ endpoints:
       titleModel: "llama-3.3-70b-versatile"
       modelDisplayLabel: "groq"
 
-endpoints:
+
   custom:
     - name: "DuckDuckGo Chat"
       baseURL: "https://duckduckgo.com/duckchat/v1"
